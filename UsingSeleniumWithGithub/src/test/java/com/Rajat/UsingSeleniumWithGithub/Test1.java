@@ -18,7 +18,7 @@ public class Test1 {
 		
 		@Test
 		public void commitTest() {
-			System.out.println("CommitTest");
+			System.out.println("CommitTest1");
 		}
 
 	}
